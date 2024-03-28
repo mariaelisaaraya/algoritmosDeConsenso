@@ -2,9 +2,9 @@
   Seguridad y Algoritmos de Consenso
 </h1>
 
-los algoritmos de consenso en la blockchain desempeñan un papel crucial en la seguridad y la integridad de la red. 
+Los algoritmos de consenso en la blockchain desempeñan un papel crucial en la seguridad y la integridad de la red. 
 
-_ Dos de los algoritmos de consenso más comunes son Proof of Work (PoW) y Proof of Stake (PoS)
+Dos de los algoritmos de consenso más comunes son Proof of Work (PoW) y Proof of Stake (PoS)
 
 ## 🚀 Proof of Work 
 1. ** (PoW) **
@@ -41,7 +41,7 @@ sequenceDiagram
 ```
 
 ## Autora ✒️
-**Lisas** -Para el WomenBiz
+**Lisas** -Para [WomenBiz](https://hiwomenbiz.com/)
 
 * Gracias por pasar 📢 y ahora a seguir estudiando
 
